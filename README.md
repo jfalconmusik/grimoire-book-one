@@ -7,4 +7,4 @@ Grimoire
 Book One
 ###
 
-### ![Order a Copy (mailto:jfalconmusik@gmail.com)] 
+### [Order a Copy](mailto:jfalconmusik@gmail.com)
